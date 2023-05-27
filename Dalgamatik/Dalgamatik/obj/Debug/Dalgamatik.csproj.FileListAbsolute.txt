@@ -1,0 +1,10 @@
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.Form1.resources
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.Properties.Resources.resources
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\bin\Debug\Dalgamatik.exe.config
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\bin\Debug\Dalgamatik.exe
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\bin\Debug\Dalgamatik.pdb
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.exe
+C:\Users\Beyza\Desktop\hesap_makinesi\Dalgamatik\Dalgamatik\obj\Debug\Dalgamatik.pdb
